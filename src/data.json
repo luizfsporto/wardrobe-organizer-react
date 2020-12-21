@@ -1,0 +1,66 @@
+[{
+        "brand": "H&M",
+        "color": "Grey",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/22/80/2280ebf8c1fc906092f15a6d201e6b024ea45af9.jpg],origin[dam],category[men_hoodiessweatshirts_hoodies],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+        "type": "Hoodies",
+        "title": "Grey Hoodie",
+        "liked": "No"
+    },
+    {
+        "brand": "H&M",
+        "color": "Burgundy",
+        "image": "https://lp2.hm.com/hmgoepprod?set=quality[79],source[/09/03/09032c68f55890c4f163c0dd53fe487e79c146fd.jpg],origin[dam],category[men_hoodiessweatshirts_hoodies],type[DESCRIPTIVESTILLLIFE],res[m],hmver[1]&call=url[file:/product/main]",
+        "type": "Hoodies",
+        "title": "Burgundy Hoodie",
+        "liked": "No"
+    },
+    {
+        "brand": "Adidas",
+        "color": "Blue",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/1d16856f17c4460693d7ab030054a0f0_9366/Run_It_3_Stripes_PB_Shorts_Blue_FQ2535_21_model.jpg",
+        "type": "Shorts",
+        "title": "Blue Short",
+        "liked": "No"
+    },
+    {
+        "brand": "Nike",
+        "color": "Black",
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/t1prn1o0awa8rxxu0iwj/dri-fit-therma-mens-training-pants-xV5QHN.jpg",
+        "type": "Pants",
+        "title": "Black Pant",
+        "liked": "No"
+
+    },
+    {
+        "brand": "Nike",
+        "color": "Grey",
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/kky4wff749g4uhgj36pd/dri-fit-therma-mens-training-pants-xV5QHN.jpg",
+        "type": "Pants",
+        "title": "Grey Pant",
+        "liked": "No"
+    },
+    {
+        "brand": "Nike",
+        "color": "Blue",
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e7d79eaf-d1d1-4b69-b653-9b433d90e52d/legend-2-mens-training-t-shirt-knTPqEkv.jpg",
+        "type": "T-Shirts",
+        "title": "Blue T-Shirt",
+        "liked": "No"
+    },
+    {
+        "brand": "Adidas",
+        "color": "Lime",
+        "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/0a8bf6a76a4548aa94a8ab030048fe7c_9366/Run_It_3_Stripes_PB_Shorts_Green_FQ2533_21_model.jpg",
+        "type": "Shorts",
+        "title": "Lime Short",
+        "liked": "No"
+    },
+    {
+        "brand": "Nike",
+        "color": "Orange",
+        "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dbvnlprvlu4munmtfdod/legend-2-mens-training-t-shirt-knTPqEkv.jpg",
+        "type": "T-Shirts",
+        "title": "Orange T-Shirt",
+        "liked": "No"
+    }
+]
